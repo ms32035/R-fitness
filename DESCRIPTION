@@ -1,0 +1,10 @@
+Package: fitness
+Type: Package
+Title: Couple of functions to analyze JSON data from Google Fitness API
+Version: 1.0
+Date: 2015-02-04
+Author: Marcin Szymanski
+Maintainer: Marcin Szymanski <marcin@marcinszymanski.pl>
+Description: The package is just to make the analysis more structured and repetitive
+License: MIT + file LICENSE
+Depends: R (>= 3.0.0), jsonlite (>= 0.1), cluster (>= 0.1)
